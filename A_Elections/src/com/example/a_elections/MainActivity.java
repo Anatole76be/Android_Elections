@@ -89,7 +89,7 @@ public class MainActivity extends ActionBarActivity {
 		public void postData(String valueIWantToSend) {
 			// Create a new HttpClient and Post Header
 			HttpClient httpclient = new DefaultHttpClient();
-			HttpPost httppost = new HttpPost("http://109.88.27.206/ANDROID/vote.php");
+			HttpPost httppost = new HttpPost("http://monIP/ANDROID/vote.php");
  
 			try {
 				// Add your data
