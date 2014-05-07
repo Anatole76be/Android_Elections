@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elections 2014</string>
+    <string name="texte_bouton">Voter</string>
+    <string name="action_settings">Settings</string>
+    <string name="texte"></string>
+    <string name="reponse"></string>
+
+</resources>
